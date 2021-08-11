@@ -1,6 +1,10 @@
 # Beginner Project Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <kbd>
+<img src="https://imgur.com/BpCvdaR.jpg"></img>
+  </kbd>
+</p>
 
 The Monsters project is a spinoff of a popular Udemy project "Zero to Mastery for React Developers"
 This project uses different data sources to populate each Monster card along with responsive CSS styling for web and mobile
